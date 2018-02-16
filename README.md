@@ -1,2 +1,2 @@
 # Readme
-Description for orgnization
+Description for organization
